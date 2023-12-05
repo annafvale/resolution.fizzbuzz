@@ -1,4 +1,4 @@
-# resolution.frizzbuzz
+# resolution.fizzbuzz
 Resolution of the logic test related to FizzBuzz.
 
 for (let i = 1; i <= 100; i++) {
